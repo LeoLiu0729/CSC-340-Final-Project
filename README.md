@@ -1,4 +1,4 @@
-## We hate coding mobile Bank
+## We Hate Coding Mobile Bank
 ## WHCMB
 ## Team Members
 RongXin(Leo) Liu, Sarvesh Sridher, Saul(Adam) Jurarez
