@@ -4,4 +4,4 @@
 RongXin(Leo) Liu, Sarvesh Sridher, Saul(Adam) Juarez
 
 ## Description
-LAS Bank is a Bank System App. It is designed to be used by a bank. 
+The LASB(Leo, Adam, and Sarvesh Banking) system is a banking management application. The system is going to be focused on easy-to-use formatting of various actions that customers/employees can perform on certain accounts. Such actions include checking account balances, transferring funds, applying for loans, approving/denying loans(a tellers-specific function), etc.
