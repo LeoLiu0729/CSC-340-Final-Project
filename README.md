@@ -1,4 +1,4 @@
-## LAS Bank
+## L.A.S. Banking System
 ## LASB
 ## Team Members
 RongXin(Leo) Liu, Sarvesh Sridher, Saul(Adam) Juarez
