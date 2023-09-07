@@ -1,5 +1,5 @@
-## We Hate Coding Mobile Bank
-## WHCMB
+## LAS Bank
+## LASB
 ## Team Members
 RongXin(Leo) Liu, Sarvesh Sridher, Saul(Adam) Juarez
 
