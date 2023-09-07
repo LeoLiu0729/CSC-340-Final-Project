@@ -4,4 +4,4 @@
 RongXin(Leo) Liu, Sarvesh Sridher, Saul(Adam) Juarez
 
 ## Description
-We hate coding Bank(WHCMB) is a mobile bank app. It is
+LAS Bank is a Bank System App. It is designed to be used by a bank.. 
