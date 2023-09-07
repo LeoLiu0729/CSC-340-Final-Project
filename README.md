@@ -4,4 +4,4 @@
 RongXin(Leo) Liu, Sarvesh Sridher, Saul(Adam) Juarez
 
 ## Description
-LAS Bank is a Bank System App. It is designed to be used by a bank.. 
+LAS Bank is a Bank System App. It is designed to be used by a bank. 
