@@ -1,4 +1,4 @@
-# security-jpa-demo
+# L.A.S Banking System
 CRUD App Using Spring Security 6 for Authentication.
 
 - Clone the project and open it in NetBeans. Do not clean and build yet!
